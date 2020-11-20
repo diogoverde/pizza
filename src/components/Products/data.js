@@ -35,7 +35,7 @@ export const productData = [
   },
 ];
 
-export const productDataTwo = [
+export const desertData = [
   {
     img: sweet2,
     alt: "Donuts",
